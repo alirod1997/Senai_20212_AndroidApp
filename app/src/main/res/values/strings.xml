@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Senai_2021-2</string>
+    <string name="altera_nome">Altera Nome</string>
+    <string name="Abre_Segunda_Activity">Abre Segunda Activity</string>
+    <string name="nome">Nome Do Atleta</string>
+    <string name="idade">Idade</string>
+    <string name="DefinirIdade">Definir Idade</string>
+    <string name="Idade">Idade:</string>
+    <string name="Salvar">Salvar</string>
+</resources>
