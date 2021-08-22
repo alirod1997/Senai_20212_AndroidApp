@@ -34,4 +34,9 @@ public class MainActivity extends AppCompatActivity {
         //passamos o objeto 'intent' como parametro
         startActivity(intent); //Método que inicia uma nova Activity
     }
+
+    public void AbreCadastroAtleta(View view) {
+
+
+    }
 }
